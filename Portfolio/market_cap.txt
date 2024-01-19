@@ -1,0 +1,39 @@
+Company,Market-cap
+Suzlon Energy,8107.3
+Solar Industries,1126.7
+Welspun India,4952.0
+Tube Investments,9817.1
+Hindustan Media Ventures,2019.6
+Hindustan Zinc,95113.8
+Neyveli Lignite,12750.5
+JBM Auto,763.4
+HCL Technologies,109839.0
+Avanti Feeds,2434.2
+Power Grid Corp,94378.1
+Mindtree,9513.4
+Tata Motors,174845.0
+Hexaware Technologies,6305.8
+Infosys,234531.0
+Grasim Industries,42329.0
+Eclerx Software,6625.5
+Edelweiss,8803.4
+Larsen & Toubro,132994.9
+AIA Engineering,11155.2
+Equitas Holdings,4825.0
+Hindustan Sanitaryware,2610.8
+Lupin,68175.8
+ITC,305813.7
+Amara Raja Batteries,15411.3
+Sun Pharmaceuticals,156323.8
+Motherson Sumi,42570.9
+Voltas,12967.4
+FAG Bearings,6731.3
+Grindwell Norton,3678.6
+Ashiana Housing,1671.6
+Cera Sanitaryware,3157.6
+Supreme Industries,12065.0
+Pfizer,8929.8
+Timken Bearings,3882.8
+Hindustan Unilever,195086.4
+Kansai Nerolac,19583.6
+Asian Paints,107718.2
