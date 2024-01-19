@@ -1,0 +1,1 @@
+Python + Equity Value Investment
